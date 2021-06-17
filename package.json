@@ -13,7 +13,7 @@
 		"bower": "1.8.x"
 	},
 	"devDependencies": {
-		"connect": "2.x.x",
+		"connect": "3.0.0",
 		"express": ">=3.11.0",
 		"qs": "~> 1.0.0"
 	},
